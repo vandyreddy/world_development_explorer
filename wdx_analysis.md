@@ -28,8 +28,7 @@
  ![image](https://user-images.githubusercontent.com/37033871/112763772-e652f580-8fd3-11eb-9b7f-9ba908a24859.png)
 - South Asia has more female uneducated youth 
  ![image](https://user-images.githubusercontent.com/37033871/112763786-f5d23e80-8fd3-11eb-8650-451ade2c3013.png)
-- 2D SCATTER PLOT :- 
-  ![image](https://user-images.githubusercontent.com/37033871/112764051-edc6ce80-8fd4-11eb-9b2a-33faf2de2e18.png)
+
   
 2. HEALTH :-Being healthy should be part of your overall lifestyle. Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses. Feeling good about      yourself and taking care of your health are important for your self-esteem and self-image. Maintain a healthy lifestyle by doing what is right for your body.Sudden infant    death syndrome (SIDS), also known as cot death or crib death, is the sudden unexplained death of a child of less than one year of age. Diagnosis requires that the death      remain unexplained even after a thorough autopsy and detailed death scene investigation,which is very uncertain to hear,So I would like to investigate more on infant          death.
 - INDICATORS:-following are three indicators 
@@ -63,9 +62,7 @@
 - 2019
    ![image](https://user-images.githubusercontent.com/37033871/112766083-333bc980-8fde-11eb-84b5-c1cd784097d7.png)
    
--2D SCATTER PLOT :- 
- 
- ![image](https://user-images.githubusercontent.com/37033871/112766225-be1cc400-8fde-11eb-8e90-e9fa185d308e.png)
+
 
 
 
