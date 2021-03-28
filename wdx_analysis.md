@@ -20,19 +20,19 @@
 - Where do you get the data to help answer your questions? I am currently using WDX explorer which itself is the tool and wholesum which provides us lot of information and aprt from this main source would be the indicator table displaying the source link which is providing all the required information sourcelink: http://www.barrolee.com/
 - BUBBLE CHART :-
 - The population,female populace and female populace with no instruction in the age gathering of 15-19 and period of time of long term is the India has the most elevated female populace who are not taught follwed by china ,least is canada and nepal is over it
-- Refer bubblechart-education in charts 
+- Refer "bubblechart-education" in charts 
  ![image](https://user-images.githubusercontent.com/37033871/112763672-675dbd00-8fd3-11eb-987d-58395162a484.png)
 - BAR CHART :- 
 - EastAsia&pacific has more population when compared to south asia 
-- Refer barchat-Totalpopulation in charts 
+- Refer "barchat-Totalpopulation" in charts 
  ![image](https://user-images.githubusercontent.com/37033871/112763755-d1766200-8fd3-11eb-815d-445b4378ddeb.png)
 - EastAsia&pacific has more female population followed by south asia and north america 
-- Refer barchart-femalepopulation in charts
+- Refer "barchart-femalepopulation" in charts
  ![image](https://user-images.githubusercontent.com/37033871/112763772-e652f580-8fd3-11eb-9b7f-9ba908a24859.png)
 - South Asia has more female uneducated youth 
-- Refer Barchart-female no education in charts 
+- Refer "Barchart-female no education" in charts 
  ![image](https://user-images.githubusercontent.com/37033871/112763786-f5d23e80-8fd3-11eb-8650-451ade2c3013.png)
-- 2D-scatter plot :- refer 2D-scatter plot-Education in charts 
+- 2D-scatter plot :- refer "2D-scatter plot-Education" in charts 
   
 2. HEALTH :-Being healthy should be part of your overall lifestyle. Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses. Feeling good about      yourself and taking care of your health are important for your self-esteem and self-image. Maintain a healthy lifestyle by doing what is right for your body.Sudden infant    death syndrome (SIDS), also known as cot death or crib death, is the sudden unexplained death of a child of less than one year of age. Diagnosis requires that the death      remain unexplained even after a thorough autopsy and detailed death scene investigation,which is very uncertain to hear,So I would like to investigate more on infant          death.
 - INDICATORS:-following are three indicators 
@@ -55,26 +55,26 @@
  - The infant death rate is gradually increasing in germany from 2015-2020 
  - The infant death rate is gradually decreasing in canada and switzerland from past 5 years 
 - 2015 
-- refer Bubble Infant Death -2015 in charts 
+- refer "Bubble Infant Death -2015" in charts 
    ![image](https://user-images.githubusercontent.com/37033871/112765980-b6a8eb00-8fdd-11eb-9854-27384cd3f7eb.png)
 - 2016 
-- refer Bubble Infant Death -2016 in charts 
+- refer "Bubble Infant Death -2016" in charts 
    ![image](https://user-images.githubusercontent.com/37033871/112766015-d7714080-8fdd-11eb-8f65-7615eaf9c13d.png)
 - 2017
-- refer Bubble Infant Death -2017 in charts 
+- refer "Bubble Infant Death -2017" in charts 
    ![image](https://user-images.githubusercontent.com/37033871/112767195-4ac98100-8fe3-11eb-9443-eaddb4599000.png)
 - 2018 
-- refer Bubble Infant Death -2018 in charts 
+- refer "Bubble Infant Death -2018" in charts 
    ![image](https://user-images.githubusercontent.com/37033871/112766065-1dc69f80-8fde-11eb-9151-18e46e820b2b.png)
 - 2019
-- refer Bubble Infant Death -2019 in charts 
+- refer "Bubble Infant Death -2019" in charts 
    ![image](https://user-images.githubusercontent.com/37033871/112766083-333bc980-8fde-11eb-84b5-c1cd784097d7.png)
    
 - BAR CHART 
-- refer bar chart-infant deaths, bar chart-infant deaths male , bar chart - infant deaths female from charts 
+- refer "bar chart-infant deaths", "bar chart-infant deaths male" , "bar chart - infant deaths female" from charts 
 
 - 2D-SCATTER PLOT :- 
-- refer 2d scatter plot-infant death from charts 
+- refer "2d scatter plot-infant death" from charts 
    
 
 
