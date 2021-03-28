@@ -19,10 +19,14 @@
 3. Female youth Population who are not educated ?
 - Where do you get the data to help answer your questions? I am currently using WDX explorer which itself is the tool and wholesum which provides us lot of information and aprt from this main source would be the indicator table displaying the source link which is providing all the required information sourcelink: http://www.barrolee.com/
 - BUBBLE CHART :-
+- The population,female populace and female populace with no instruction in the age gathering of 15-19 and period of time of long term is the India has the most elevated female populace who are not taught follwed by china ,least is canada and nepal is over it
  ![image](https://user-images.githubusercontent.com/37033871/112763672-675dbd00-8fd3-11eb-987d-58395162a484.png)
 - BAR CHART :- 
+- EastAsia&pacific has more population when compared to south asia 
  ![image](https://user-images.githubusercontent.com/37033871/112763755-d1766200-8fd3-11eb-815d-445b4378ddeb.png)
+- EastAsia&pacific has more female population followed by south asia and north america 
  ![image](https://user-images.githubusercontent.com/37033871/112763772-e652f580-8fd3-11eb-9b7f-9ba908a24859.png)
+- South Asia has more female uneducated youth 
  ![image](https://user-images.githubusercontent.com/37033871/112763786-f5d23e80-8fd3-11eb-8650-451ade2c3013.png)
 - 2D SCATTER PLOT :- 
   ![image](https://user-images.githubusercontent.com/37033871/112764051-edc6ce80-8fd4-11eb-9b2a-33faf2de2e18.png)
@@ -45,6 +49,8 @@
 4. Are the infant rates are increasing or decreasing per year?
  - Where do you get the data to help answer your questions? I am currently using WDX explorer which itself is the tool and wholesum which provides us lot of information and aprt from this main source would be from indicator UNICEF www.childmortality.org
  - BUBBLE CHART :-
+ - The infant death rate is gradually increasing in germany from 2015-2020 
+ - The infant death rate is gradually decreasing in canada and switzerland from past 5 years 
 - 2015 
    ![image](https://user-images.githubusercontent.com/37033871/112765980-b6a8eb00-8fdd-11eb-9854-27384cd3f7eb.png)
 - 2016 
@@ -56,13 +62,6 @@
 - 2019
    ![image](https://user-images.githubusercontent.com/37033871/112766083-333bc980-8fde-11eb-84b5-c1cd784097d7.png)
    
-- BAR CHART :-
-  ![image](https://user-images.githubusercontent.com/37033871/112766135-5e261d80-8fde-11eb-959a-348982e3fce2.png)
-  
-  ![image](https://user-images.githubusercontent.com/37033871/112766146-6aaa7600-8fde-11eb-9245-52e6200fc425.png)
-
-  ![image](https://user-images.githubusercontent.com/37033871/112766173-8ada3500-8fde-11eb-973b-683f459ebd3d.png)
-
 -2D SCATTER PLOT :- 
  
  ![image](https://user-images.githubusercontent.com/37033871/112766225-be1cc400-8fde-11eb-8e90-e9fa185d308e.png)
