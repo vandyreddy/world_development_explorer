@@ -55,16 +55,26 @@
  - The infant death rate is gradually increasing in germany from 2015-2020 
  - The infant death rate is gradually decreasing in canada and switzerland from past 5 years 
 - 2015 
+- refer Bubble Infant Death -2015 in charts 
    ![image](https://user-images.githubusercontent.com/37033871/112765980-b6a8eb00-8fdd-11eb-9854-27384cd3f7eb.png)
 - 2016 
+- refer Bubble Infant Death -2016 in charts 
    ![image](https://user-images.githubusercontent.com/37033871/112766015-d7714080-8fdd-11eb-8f65-7615eaf9c13d.png)
 - 2017
+- refer Bubble Infant Death -2017 in charts 
    ![image](https://user-images.githubusercontent.com/37033871/112767195-4ac98100-8fe3-11eb-9443-eaddb4599000.png)
-
 - 2018 
+- refer Bubble Infant Death -2018 in charts 
    ![image](https://user-images.githubusercontent.com/37033871/112766065-1dc69f80-8fde-11eb-9151-18e46e820b2b.png)
 - 2019
+- refer Bubble Infant Death -2019 in charts 
    ![image](https://user-images.githubusercontent.com/37033871/112766083-333bc980-8fde-11eb-84b5-c1cd784097d7.png)
+   
+- BAR CHART 
+- refer bar chart-infant deaths, bar chart-infant deaths male , bar chart - infant deaths female from charts 
+
+- 2D-SCATTER PLOT :- 
+- refer 2d scatter plot-infant death from charts 
    
 
 
