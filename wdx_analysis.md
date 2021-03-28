@@ -20,15 +20,19 @@
 - Where do you get the data to help answer your questions? I am currently using WDX explorer which itself is the tool and wholesum which provides us lot of information and aprt from this main source would be the indicator table displaying the source link which is providing all the required information sourcelink: http://www.barrolee.com/
 - BUBBLE CHART :-
 - The population,female populace and female populace with no instruction in the age gathering of 15-19 and period of time of long term is the India has the most elevated female populace who are not taught follwed by china ,least is canada and nepal is over it
+- Refer bubblechart-education in charts 
  ![image](https://user-images.githubusercontent.com/37033871/112763672-675dbd00-8fd3-11eb-987d-58395162a484.png)
 - BAR CHART :- 
 - EastAsia&pacific has more population when compared to south asia 
+- Refer barchat-Totalpopulation in charts 
  ![image](https://user-images.githubusercontent.com/37033871/112763755-d1766200-8fd3-11eb-815d-445b4378ddeb.png)
 - EastAsia&pacific has more female population followed by south asia and north america 
+- Refer barchart-femalepopulation in charts
  ![image](https://user-images.githubusercontent.com/37033871/112763772-e652f580-8fd3-11eb-9b7f-9ba908a24859.png)
 - South Asia has more female uneducated youth 
+- Refer Barchart-female no education in charts 
  ![image](https://user-images.githubusercontent.com/37033871/112763786-f5d23e80-8fd3-11eb-8650-451ade2c3013.png)
-
+- 2D-scatter plot :- refer 2D-scatter plot-Education in charts 
   
 2. HEALTH :-Being healthy should be part of your overall lifestyle. Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses. Feeling good about      yourself and taking care of your health are important for your self-esteem and self-image. Maintain a healthy lifestyle by doing what is right for your body.Sudden infant    death syndrome (SIDS), also known as cot death or crib death, is the sudden unexplained death of a child of less than one year of age. Diagnosis requires that the death      remain unexplained even after a thorough autopsy and detailed death scene investigation,which is very uncertain to hear,So I would like to investigate more on infant          death.
 - INDICATORS:-following are three indicators 
