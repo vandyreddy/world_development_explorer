@@ -18,5 +18,17 @@
 2. What is the female youth population ?
 3. Female youth Population who are not educated ?
 - Where do you get the data to help answer your questions? I am currently using WDX explorer which itself is the tool and wholesum which provides us lot of information and aprt from this main source would be the indicator table displaying the source link which is providing all the required information sourcelink: http://www.barrolee.com/
-- ![image](https://user-images.githubusercontent.com/37033871/112763672-675dbd00-8fd3-11eb-987d-58395162a484.png)
+- BUBBLE CHART :-
+ ![image](https://user-images.githubusercontent.com/37033871/112763672-675dbd00-8fd3-11eb-987d-58395162a484.png)
+- BAR CHART :- 
+ ![image](https://user-images.githubusercontent.com/37033871/112763755-d1766200-8fd3-11eb-815d-445b4378ddeb.png)
+ ![image](https://user-images.githubusercontent.com/37033871/112763772-e652f580-8fd3-11eb-9b7f-9ba908a24859.png)
+ ![image](https://user-images.githubusercontent.com/37033871/112763786-f5d23e80-8fd3-11eb-8650-451ade2c3013.png)
+- 2D SCATTER PLOT :- 
+  ![image](https://user-images.githubusercontent.com/37033871/112764051-edc6ce80-8fd4-11eb-9b2a-33faf2de2e18.png)
+
+  
+
+
+
 
