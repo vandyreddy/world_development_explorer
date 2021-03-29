@@ -1,80 +1,46 @@
 # Individual Project 1
 ### The World Development Explorer (WDX) is a unique tool for the global research and business community. It is an interactive and visual environment for exploring the world development landacape. Users will gain insights that inspire reseach, influence policies, and impact actions for a better world.
 ### Among 22 topics my core intrest are in  Education,Health, 
-1.EDUCATION  :- Education is not a important but a necessity thing which influences out a lot of people.In these fast moving digital world ,It's vital important and necessity to   change and empower the female education and maintain a gender equality.
+1.I have chosen the topic EDUCATION as 
+- I want to analyze the total youth population between 15-19 by comparing with other countries and analyzing which country has the highest population of youth 
+- I want to analyze the female youth population bewtween 15-19 and want to visualize which country has the hishest ,lowest youth female population
+- I want to analyze the female youth population who are not educated by comparing with the other countries   
 - INDICATORS :- I would like to look through following three indicators
-1. Population in thousands,age 15-19,total
-2. Population in thousands,age 15-19,female
-3. Percentage of female population age 15-19 with no education 
-- REGIONS:- South Asia,North America,East Asia & Pacific
+- Population in thousands,age 15-19,total means population in thousands,age 15-19,total is the total population of 15 to 19 years old in thousands estimated by Barrolee and the data is collected from http://www.barrolee.com/
+- Population in thousands,age 15-19,female ,total means population in thousands,age 15-19,total is thefemale population of 15 to 19 years old in thousands estimated by Barrolee and the data is collected from http://www.barrolee.com/
+- Percentage of female population age 15-19 with no education means the % of female population between the age of 15 to 19 with no education and the data is collected from http://www.barrolee.com/
 - COUNTRIES:-India,China,Canada,Nepal
 - TIME SPAN:-2010-2020 (10 years of time span)
-- ANALAYSIS FROM CHART:- 
-- From the chart it clearly depicts that:
-- The population,female population and female population with no education in the age group of 15-19 and timespan of 10 year is the India has the highest female population who are not educated follwed by china ,least is canada and nepal is over it 
-- Why is it important to you and/or to others? When teens choose to have a job, employment teaches responsibility and good work habits, improves time management and organizational skills and helps them save money.Working also gives teens an opportunity to establish contacts with adult employers that can serve as a future reference
-- What questions do you have in mind and would like to answer? 
-1. What is the ratio of youth population ?
-2. What is the female youth population ?
-3. Female youth Population who are not educated ?
-- Where do you get the data to help answer your questions? I am currently using WDX explorer which itself is the tool and wholesum which provides us lot of information and aprt from this main source would be the indicator table displaying the source link which is providing all the required information sourcelink: http://www.barrolee.com/
 - BUBBLE CHART :-
-- The population,female populace and female populace with no instruction in the age gathering of 15-19 and period of time of long term is the India has the most elevated female populace who are not taught follwed by china ,least is canada and nepal is over it
-- Refer "bubblechart-education" in charts 
- ![image](https://user-images.githubusercontent.com/37033871/112763672-675dbd00-8fd3-11eb-987d-58395162a484.png)
+- India has the highest aount of population , female populatio.And also non-educated female youth are more in India followed by china,India and nepal  
+  ![image](https://user-images.githubusercontent.com/37033871/112851222-c4f81500-9078-11eb-95b8-906e18af516f.png)
 - BAR CHART :- 
-- EastAsia&pacific has more population when compared to south asia 
-- Refer "barchat-Totalpopulation" in charts 
- ![image](https://user-images.githubusercontent.com/37033871/112763755-d1766200-8fd3-11eb-815d-445b4378ddeb.png)
-- EastAsia&pacific has more female population followed by south asia and north america 
-- Refer "barchart-femalepopulation" in charts
- ![image](https://user-images.githubusercontent.com/37033871/112763772-e652f580-8fd3-11eb-9b7f-9ba908a24859.png)
-- South Asia has more female uneducated youth 
-- Refer "Barchart-female no education" in charts 
- ![image](https://user-images.githubusercontent.com/37033871/112763786-f5d23e80-8fd3-11eb-8650-451ade2c3013.png)
-- 2D-scatter plot :- refer "2D-scatter plot-Education" in charts 
-  
-2. HEALTH :-Being healthy should be part of your overall lifestyle. Living a healthy lifestyle can help prevent chronic diseases and long-term illnesses. Feeling good about      yourself and taking care of your health are important for your self-esteem and self-image. Maintain a healthy lifestyle by doing what is right for your body.Sudden infant    death syndrome (SIDS), also known as cot death or crib death, is the sudden unexplained death of a child of less than one year of age. Diagnosis requires that the death      remain unexplained even after a thorough autopsy and detailed death scene investigation,which is very uncertain to hear,So I would like to investigate more on infant          death.
-- INDICATORS:-following are three indicators 
-1. Number of infant deaths
-2. Number of infant deaths,male
-3. Number of infant deaths,female
-- REGIONS:- South Asia,North America,Europe&central Asia 
-- COUNTRIES:-canada,switzerland,Germany
-- TIME SPAN:-2015-2020 (5 years of time span)
-- From the chart it clearly demonstrates that :-
-- Number of infant deaths have been gradually increasing from 2015 to 2020,Infant deaths in germany was gradually increasing from 2015 to 2020 ,canada was gradually             decreasing which is the same case with switzerland.
-- Infant death syndrome is a very bad phase of a particular child,who dies in the dark and who doesn't explore the world and does not feel the touch of dear ones.Just for the   informatory purpose I would like to investigate and depict the infant deaths happening per year 
-- What questions do you have in mind and would like to answer? 
-1. What are the number of Infant Deaths per year?
-2. What are the male child Infant Deaths per year?
-3. What are the Female child Deaths per year?
-4. Are the infant rates are increasing or decreasing per year?
- - Where do you get the data to help answer your questions? I am currently using WDX explorer which itself is the tool and wholesum which provides us lot of information and aprt from this main source would be from indicator UNICEF www.childmortality.org
- - BUBBLE CHART :-
- - The infant death rate is gradually increasing in germany from 2015-2020 
- - The infant death rate is gradually decreasing in canada and switzerland from past 5 years 
-- 2015 
-- refer "Bubble Infant Death -2015" in charts 
-   ![image](https://user-images.githubusercontent.com/37033871/112765980-b6a8eb00-8fdd-11eb-9854-27384cd3f7eb.png)
-- 2016 
-- refer "Bubble Infant Death -2016" in charts 
-   ![image](https://user-images.githubusercontent.com/37033871/112766015-d7714080-8fdd-11eb-8f65-7615eaf9c13d.png)
-- 2017
-- refer "Bubble Infant Death -2017" in charts 
-   ![image](https://user-images.githubusercontent.com/37033871/112767195-4ac98100-8fe3-11eb-9443-eaddb4599000.png)
-- 2018 
-- refer "Bubble Infant Death -2018" in charts 
-   ![image](https://user-images.githubusercontent.com/37033871/112766065-1dc69f80-8fde-11eb-9151-18e46e820b2b.png)
-- 2019
-- refer "Bubble Infant Death -2019" in charts 
-   ![image](https://user-images.githubusercontent.com/37033871/112766083-333bc980-8fde-11eb-84b5-c1cd784097d7.png)
-   
-- BAR CHART 
-- refer "bar chart-infant deaths", "bar chart-infant deaths male" , "bar chart - infant deaths female" from charts 
+- The following bar graph shows the number of female unemployment 
+- India has the highest rate of female employment and least in canada 
+  ![image](https://user-images.githubusercontent.com/37033871/112851527-10aabe80-9079-11eb-877c-f974125ba617.png)
 
-- 2D-SCATTER PLOT :- 
-- refer "2d scatter plot-infant death" from charts 
+  
+2. HEALTH :- 
+- I want to analyze the wether the male or female infant deaths are more .
+- I want to analyze wether the infant deaths are increasing or decresing every year 
+- I want to anayze in which country they are more infant deaths by comparing 
+- INDICATORS:-following are three indicators 
+- Number of infant deaths means number of infants dying before reaching one year of age and data is collected from UN Inter-agency group gor child mortality estimation         (www.childmortality.org)
+- Number of infant deaths,male means number of male infants dying before reaching one year of age and data is collected from UN Inter-agency group gor child mortality           estimation   (www.childmortality.org)
+- Number of infant deaths,female means number of female infants dying before reaching one year of age and data is collected from UN Inter-agency group gor child mortality       estimation   (www.childmortality.org)
+- COUNTRIES:-canada,switzerland,Germany
+ - BUBBLE CHART :-
+ - The infant death rate is gradually increasing in germany from 2010-2020 
+ - The infant death rate is gradually decreasing in canada and switzerland from past 10 years 
+   ![image](https://user-images.githubusercontent.com/37033871/112853695-1dc8ad00-907b-11eb-8673-ab87e0222c80.png)
+- BAR CHART 
+- Historic trend ,the infant deaths decreased gradually from 1990 to 2010 in all countries 
+- ![image](https://user-images.githubusercontent.com/37033871/112855254-a4ca5500-907c-11eb-9bb0-31ae19b99dc6.png)
+- presently,From the bar graph there is decrease in switzerland and gradual increase in remaining other countries 
+   ![image](https://user-images.githubusercontent.com/37033871/112855391-be6b9c80-907c-11eb-81bd-b5d61699ab97.png)
+
+
+
    
 
 
