@@ -46,7 +46,7 @@
 - BAR CHART :- 
 - The following bar graph shows the number of female unemployment 
 - India has the highest rate of female employment and least in canada 
-  ![image](https://user-images.githubusercontent.com/37033871/112851527-10aabe80-9079-11eb-877c-f974125ba617.png)
+  ![image](https://user-images.githubusercontent.com/37033871/112864883-4013f800-9086-11eb-89f9-a584c0437ab9.png)
 - PIE CHART -HISTORIC TREND -1980-2010
 - It depicts that almost 60% of the Indians females are unemployed and then nepal with 40% of female population and other two countires,china and canada has   very low female unemployment 
 - ![image](https://user-images.githubusercontent.com/37033871/112863262-aac43400-9084-11eb-8043-8f26be6cb3cd.png)
