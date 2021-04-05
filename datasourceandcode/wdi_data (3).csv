@@ -1,0 +1,21 @@
+,Year,BAR.POP.1519.FE,BAR.POP.1519,BAR.NOED.1519.FE.ZS,Country Code,Country Name,Region,Income Group,Lending Type
+0,1990,943,1938,0.1,CAN,Canada,North America,High income,Not classified
+1,1995,962,1980,0.1,CAN,Canada,North America,High income,Not classified
+2,2000,1006,2067,0.1,CAN,Canada,North America,High income,Not classified
+3,2005,1049,2155,1.42,CAN,Canada,North America,High income,Not classified
+4,2010,1084,2230,0.1,CAN,Canada,North America,High income,Not classified
+5,1990,59647,122793,4.45,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,1995,47791,98922,2.45,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2000,48357,100768,1.32,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2005,55684,117234,0.81,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2010,48251,101995,0.49,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,1990,41487,86678,45.11,IND,India,South Asia,Lower middle income,IBRD
+11,1995,43233,89968,37.21,IND,India,South Asia,Lower middle income,IBRD
+12,2000,49266,102090,30.22,IND,India,South Asia,Lower middle income,IBRD
+13,2005,53233,110072,12.62,IND,India,South Asia,Lower middle income,IBRD
+14,2010,55959,115383,11.09,IND,India,South Asia,Lower middle income,IBRD
+15,1990,960,1983,61.0,NPL,Nepal,South Asia,Lower middle income,IDA
+16,1995,1091,2242,56.78,NPL,Nepal,South Asia,Lower middle income,IDA
+17,2000,1247,2575,34.86,NPL,Nepal,South Asia,Lower middle income,IDA
+18,2005,1416,2921,17.87,NPL,Nepal,South Asia,Lower middle income,IDA
+19,2010,1626,3345,6.89,NPL,Nepal,South Asia,Lower middle income,IDA
